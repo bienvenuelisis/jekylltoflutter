@@ -1,16 +1,17 @@
-# jekylltoflutter
+# Jekyll Blog to Flutter News App
 
-A new Flutter project.
+Quicky setup your jekyll blog website to fully functionnal Flutter News Mobile Application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. You need to/may have (SURPRISE !) a jekyll blog website hosted online.
 
-A few resources to get you started if this is your first Flutter project:
+2. Setup your Jekyll Blog Posts API.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3. Configure your mobile app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Add needed features (offline mode, translation, favorites posts, to read later - bookmarks-, dark theme, image caching, comments on posts, notification on new article, mobile ads, posts share,image compression to reduce data usage on mobile, deeplinking -redirect to mobile app when user click a post link on a phone-, contact us).
+
+5. Build the app.
+
+To setup completely the app [this is an explained seeries of articles](https://blog.theresilient.dev/series/blog-to-flutter-app) written by (ANOTHER SURPRISE !) me on how to convert your jekyll blog website to a news fully functional mobile app.
