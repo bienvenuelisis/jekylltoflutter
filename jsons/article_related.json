@@ -1,0 +1,14 @@
+{
+    "id": "",
+    "slug": "",
+    "url": "",
+    "title": "",
+    "image": "",
+    "author": "$author",
+    "read_time": "",
+    "date_fr": "",
+    "date_en": "",
+    "category_main": "",
+    "tags": [""],
+    "type": "@enum:post"
+}

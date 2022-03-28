@@ -1,4 +1,4 @@
-# Jekyll Blog to Flutter News App
+# Jekyll Blog to Flutter News LocalStorage
 
 Quicky setup your jekyll blog website to fully functionnal Flutter News Mobile Application.
 
